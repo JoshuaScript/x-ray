@@ -1,7 +1,7 @@
 {
   "name": "x-ray",
   "description": "structure any website",
-  "homepage": "https://github.com/lapwinglabs/x-ray#readme",
+  "homepage": "https://github.com/JoshuaScript/x-ray#readme",
   "version": "2.3.3",
   "main": "index.js",
   "author": {
@@ -16,10 +16,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/lapwinglabs/x-ray.git"
+    "url": "git://github.com/JoshuaScript/x-ray.git"
   },
   "bugs": {
-    "url": "https://github.com/lapwinglabs/x-ray/issues"
+    "url": "https://github.com/JoshuaScript/x-ray/issues"
   },
   "keywords": [
     "api",
@@ -40,7 +40,7 @@
     "isobject": "~2.0.0",
     "object-assign": "~4.0.1",
     "stream-to-string": "^1.1.0",
-    "x-ray-crawler": "JoshuaScript/x-ray-crawler",
+    "x-ray-crawler": "git://github.com/JoshuaScript/superagent.git",
     "x-ray-parse": "~1.0.1"
   },
   "devDependencies": {
