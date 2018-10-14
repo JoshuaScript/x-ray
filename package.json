@@ -40,7 +40,7 @@
     "isobject": "~2.0.0",
     "object-assign": "~4.0.1",
     "stream-to-string": "^1.1.0",
-    "x-ray-crawler": "https://github.com/JoshuaScript/x-ray-crawler.git",
+    "x-ray-crawler": "git@github.com:JoshuaScript/x-ray-crawler.git",
     "x-ray-parse": "~1.0.1"
   },
   "devDependencies": {
